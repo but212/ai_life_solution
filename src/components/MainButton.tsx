@@ -1,6 +1,6 @@
 'use client'
 
-import { cn } from '@sglara/cn'
+import cn from '@/utils/cn'
 import type { ButtonHTMLAttributes } from 'react'
 
 export default function MainButton(props: ButtonHTMLAttributes<HTMLButtonElement>) {
